@@ -1,0 +1,154 @@
+# Codex 插件中文速查表
+
+整理日期：2026-05-25
+
+说明：本文件把当前收集到的 Codex 插件清单整理为「插件名字 - 中文介绍」。插件目录更新很快，正式建站前应在 Codex 桌面端插件页重新核对可用状态、分类、名称和权限说明。
+
+## Featured / 推荐
+
+- Computer Use - 让 Codex 控制 Mac 桌面应用，适合跨应用操作、检查本地软件界面和执行需要 GUI 的任务。
+- Chrome - 让 Codex 控制 Chrome 浏览器，适合使用已有登录态、访问网页后台、测试网页交互。
+- Spreadsheets - 创建和编辑电子表格文件。
+- Presentations - 创建和编辑演示文稿。
+- GitHub - 处理 PR、Issue、CI 和发布流程。
+- Slack - 读取和管理 Slack 消息、频道和协作内容。
+- Notion - 支持规格文档、研究资料、会议记录和知识库相关工作流。
+- Linear - 查找和引用 Linear 的 Issue、项目和任务。
+- Statsig - 把 Statsig 工作区接入 Codex，用于实验、指标和特性开关相关分析。
+- Gmail - 读取和管理 Gmail 邮件。
+- Google Calendar - 管理 Google 日历事件和日程。
+- Google Drive - 在 Google Drive、Docs、Sheets、Slides 中查找和处理文件。
+- Teams - 总结 Microsoft Teams 内容并起草后续行动。
+- SharePoint - 总结 SharePoint 站点和文件内容。
+- Outlook Email - 整理 Outlook 收件箱并起草回复。
+- Outlook Calendar - 管理 Outlook 日程和会议变更。
+- Figma - 将 Figma 设计接入 Codex，支持设计稿到代码的工作流。
+- Vercel - 构建、部署 Web 应用和 AI agents。
+- OpenAI Developers - 按 OpenAI 最佳实践开发 AI 应用、agents 和 ChatGPT Apps。
+
+## Coding / 编程开发
+
+- Hugging Face - 查看模型、数据集、Spaces 和研究资料。
+- Netlify - 部署项目并管理发布。
+- Game Studio - 设计、原型制作和发布浏览器游戏。
+- Superpowers - 为 coding agent 提供规划、TDD、调试和交付工作流。
+- CircleCI - 构建、测试和部署应用。
+- Cloudflare - 使用官方 MCP 获取 Cloudflare 平台指导和操作能力。
+- Sentry - 检查最近的 Sentry 问题和事件。
+- Build iOS Apps - 使用 App Intents、SwiftUI、Xcode 工作流构建、优化和调试 iOS 应用。
+- Build macOS Apps - 使用 SwiftUI 和 AppKit 指导构建、调试、检测和实现 macOS 应用。
+- Build Web Apps - 构建前端 Web 应用，支持生成素材、浏览器测试、支付和数据库。
+- Test Android Apps - 在 Android 模拟器中复现问题、检查 UI、采集性能证据。
+- Expo - 构建、部署、升级和调试 Expo / React Native 应用。
+- CodeRabbit - 对当前改动运行 AI 代码审查。
+- Neon Postgres - 管理 Neon Serverless Postgres 项目和数据库。
+- Plugin Eval - 从聊天开始，再在本地评估或基准测试插件。
+- Cloudinary - 在 Codex 中管理、搜索和转换 Cloudinary 媒体资源库。
+- Hostinger - 通过描述需求构建真实网站和应用。
+- MarcoPolo - 启动安全容器，让 Codex 可以处理你的真实数据。
+- Quicknode - 直接在 OpenAI 中管理 Quicknode 基础设施。
+- SendGrid - 连接并操作 SendGrid 邮件 API。
+- Vantage - 云可观测和成本优化平台，用于汇总和分析云基础设施成本。
+- YepCode - 用自己的代码构建自定义 AI 工具，通过 JSON Schema 定义输入并执行。
+- Render - 在 Render 上部署、调试、监控和迁移应用。
+- Temporal - 在整个平台生命周期内开发、运行和管理 Temporal 应用。
+- Supabase - 为 Codex 提供 Supabase Skills 和 MCP 工具。
+- Codex Security - 对代码库进行安全扫描。
+- Twilio Developer Kit - Twilio Skills，用于构建、调试和发布 Twilio 相关功能。
+
+## Design / 设计与视频
+
+- Canva - 搜索、创建和编辑 Canva 设计。
+- Remotion - 根据提示词创建动态图形和视频。
+- BioRender - 帮助科研人员快速创建专业科研图。
+- HyperFrames by HeyGen - 编写 HTML 并渲染视频。
+- HeyGen - 创建虚拟人视频和个性化视频消息。
+
+## Lifestyle / 生活服务
+
+- Cogedim - 法国房地产开发商 Cogedim 的服务插件。
+- FINN - FINN 汽车订阅服务，可用更灵活的方式用车，避免长期购车或租车承诺。
+- MyRegistry.com - 管理礼物清单，方便亲友购买你真正想要的礼物。
+- Setu Bharat Connect BillPay - 通过对话支付水电等公共事业账单。
+- WeatherPromise - 为旅行提供天气保障，如果降雨超过承诺标准，可按规则获得费用补偿。
+
+## Productivity / 生产力与业务系统
+
+- Documents - 创建和编辑文档工件。
+- Atlassian Rovo - 快速管理 Jira 和 Confluence。
+- Jam - 带上下文录制屏幕，用于反馈、复现和协作。
+- Stripe - 处理支付和业务工具相关工作。
+- Box - 搜索并引用 Box 中的文档。
+- Amplitude - 分析产品数据、漏斗和用户行为。
+- Attio - 连接 Codex 和 Attio CRM 工作区，通过自然语言管理客户关系。
+- Brand24 - 帮助市场和公关团队探索品牌提及、情绪和媒体监测数据。
+- Brex - 连接 Brex，通过自然语言查看公司财务信息。
+- Carta CRM - 帮助投资团队管理交易流、公司和关系网络。
+- Channel99 - 将 Channel99 的实时 go-to-market 情报接入 Codex。
+- Circleback - 用 AI 会议纪要、行动项和后续安排提高会议产出。
+- ClickUp - 把 Codex 变成 ClickUp 命令中心。
+- Common Room - 在 Codex 中嵌入买家情报和客户信号。
+- Conductor - 获取品牌可见度、情绪和搜索表现等专有指标。
+- Coupler.io - 连接多渠道营销、财务、销售、电商和业务数据，在 Codex 中分析。
+- Coveo - 搜索企业内容。
+- Demandbase - 为销售、市场和 GTM 团队接入 B2B 数据。
+- Docket - 让销售知识随时可用，辅助销售问答和资料检索。
+- Domotz (Preview) - 通过自然语言监控和管理网络基础设施。
+- Dovetail - 将 Dovetail 客户反馈接入 Codex，辅助产品和研究决策。
+- Egnyte - 直接处理存储在 Egnyte 中的文档和文件。
+- Fireflies - 把会议记录和团队知识接入 Codex。
+- Fyxer - 在聊天中撰写更像你本人语气的邮件。
+- Granola - 连接会议历史，让 Codex 获取过往会议上下文。
+- Happenstance - 用自然语言搜索职业网络，找到合适的人。
+- Help Scout - 同步 Help Scout 邮箱和会话，供 Codex 检索和处理。
+- HighLevel - 为代理商提供统一 CRM、自动化和客户沟通平台能力。
+- HubSpot - 使用 HubSpot 数据分析模式、创建和更新记录、管理 CRM 运营。
+- KeyBid Puls - 面向短租投资的 ROI 计算和盈利能力分析。
+- Mem - 连接 Mem 知识库，把个人第二大脑上下文交给 Codex。
+- Monday.com - 让 AI agent 与 monday.com 无缝交互的 MCP 连接器。
+- MotherDuck - 连接 MotherDuck 数据仓库。
+- Network Solutions - 通过对话快速搜索可用域名。
+- Omni Analytics - 使用数据团队已定义的语义模型、权限和逻辑查询 Omni。
+- Otter.ai - 连接会议智能系统，搜索和检索会议内容。
+- Pipedrive - 同步 Pipedrive 交易和联系人，供 Codex 使用。
+- Pylon - 访问 Pylon 客服平台，搜索、管理和解决客户问题。
+- Ranked AI - 提供 SEO 和 PPC 软件能力，并可结合托管服务。
+- Razorpay - 连接 Razorpay 账户，通过对话访问支付数据。
+- Read AI - 将会议智能直接接入 AI 工作流。
+- Responsive - 在 Codex 中使用组织数据完成响应、投标和知识工作。
+- Semrush - 提供结构化 SEO 与流量数据，包括域名、关键词和反向链接。
+- SignNow - 不切换工具即可更快完成文档签署。
+- SkyWatch - 搜索和探索来自 Vantor、Planet、Airbus 等供应商的卫星影像。
+- Streak - 连接 Gmail 内置 CRM，跟踪交易、联系人和工作流。
+- Teamwork.com - 同步 Teamwork 项目和任务。
+- United Rentals - 根据任务需求查找合适设备。
+- Waldo - 面向机构和品牌的 AI 策略平台。
+- Windsor.ai - 将营销和业务数据源连接到 Codex，用自然语言提问分析。
+- Asana - 读取和管理 Asana。
+- Zoom - 使用 Zoom 会议上下文，并构建 Zoom 集成。
+
+## Research / 研究与金融数据
+
+- LaTeX - 使用 Tectonic 或 TeX Live 编译 LaTeX。
+- Life Science Research - 面向生命科学的研究工作流，支持路由、证据综合和可选并行子代理分析。
+- Zotero - 从 Zotero 查找论文并添加引用。
+- Alpaca - 访问和分析市场相关数据，减少手动盯盘。
+- Binance - 通过自然语言访问和探索 Binance 的公开只读市场数据。
+- CB Insights - 将 Codex 变成私募市场研究助手。
+- Cube - 查询 Cube 中的实际值、预算、预测、差异等实时数据。
+- Daloopa - 提供来自 SEC 文件、投资者演示和公开资料的高质量基本面数据。
+- Dow Jones Factiva - 让授权用户搜索 Factiva 全球新闻档案，包括高级新闻内容。
+- GovTribe - 搜索政府合同、奖项和供应商。
+- Moody's - 提供信用和风险情报。
+- Morningstar - 投资和基金研究。
+- MT Newswires - 将实时全球金融新闻接入 Codex，提供原创、中立的市场新闻。
+- Particl Market Research - 帮助团队直接在 Codex 中回答电商市场研究问题。
+- PitchBook - 提供公司、投资者、基金和交易的私募资本市场结构化数据。
+- PolicyNote - 访问全球政策和监管情报。
+- Quartr - 访问超过 14,500 家上市公司的第一方投资者关系数据。
+- Readwise - Readwise 和 Reader 的官方插件。
+- Scite - 提供基于同行评议研究的可验证答案。
+- Taxdown - 面向西班牙个人和自由职业者，解答税务抵扣、申报等问题。
+- Third Bridge - 将行业专家的关键背景和可信洞察纳入金融研究工作流。
+- Tinman AI - 帮助贷款专员和承销人员快速评估住房融资方案并回答相关问题。
+
