@@ -2,6 +2,8 @@
 
 > 面向中文开发者的 **OpenAI Codex** 完整教程。覆盖桌面端 App、CLI、IDE、Web / Cloud 全场景，把 AGENTS.md、Skills、MCP、插件、Permissions、Rules、Hooks、企业治理一站打通。
 
+### 🌐 在线阅读：**[codex.aialiang.com](https://codex.aialiang.com/)**
+
 这是一个纯静态教程站点：内容全部写在 `data/sections.mjs` 里，通过 `scripts/build.mjs` 一键生成首页与全部教程页，部署在 Vercel 上。共 **12 个部分、60 个小节**，以 **Codex 桌面端 App** 为主线，CLI / IDE / Cloud 作为补充。
 
 ---
@@ -90,7 +92,7 @@ node scripts/build.mjs
 
 ## 🌐 部署
 
-站点托管在 [Vercel](https://vercel.com/)（纯静态，无需特殊配置）。推送到 `main` 分支后自动部署。
+站点托管在 [Vercel](https://vercel.com/)（纯静态，无需特殊配置），正式域名 **[codex.aialiang.com](https://codex.aialiang.com/)**。推送到 `main` 分支后自动部署。
 
 ---
 
