@@ -107,7 +107,11 @@ node scripts/build.mjs
 **跟着阿亮学 AI** — 专注把 AI 编程工具讲清楚、讲到能上手。
 
 - 📕 小红书：**跟着阿亮学AI**
-- 💬 更多 AI 教程与交流群，请扫描站点首页的二维码
+- 💬 更多 AI 教程与交流群，扫码加入 👇
+
+| 小红书 · 跟着阿亮学AI | 微信交流群 |
+|:---:|:---:|
+| <img src="assets/images/xhs-qr.png" alt="小红书 · 跟着阿亮学AI" width="220"> | <img src="assets/images/wechat-qr.jpg" alt="微信交流群" width="220"> |
 
 如果这个教程帮到了你，欢迎在小红书关注「跟着阿亮学AI」，也欢迎给本仓库点个 ⭐。
 
